@@ -1,5 +1,0 @@
-
-	* Descargar debian 10
-	* Practico 1 de redes
-	* Repositorios de universidades nacionales, buscar tesis para leer para saber que es. introduccion al estado de arte, para tener recorrido del proceso de hacer la tesis. que es un fileSystem.
-	* Descargar CiscoPacketTracer, version 7
